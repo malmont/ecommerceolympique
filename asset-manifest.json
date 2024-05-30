@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecommerceolympique/static/css/main.1195b131.css",
-    "main.js": "/ecommerceolympique/static/js/main.406de9d4.js",
+    "main.js": "/ecommerceolympique/static/js/main.c07c9beb.js",
     "static/js/787.72f94a41.chunk.js": "/ecommerceolympique/static/js/787.72f94a41.chunk.js",
     "static/media/mode1.jpg": "/ecommerceolympique/static/media/mode1.d09dfb0caa9bd6c20212.jpg",
     "static/media/model2.jpg": "/ecommerceolympique/static/media/model2.3eccfaad574584fba675.jpg",
@@ -10,11 +10,11 @@
     "static/media/revicons.woff": "/ecommerceolympique/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/ecommerceolympique/index.html",
     "main.1195b131.css.map": "/ecommerceolympique/static/css/main.1195b131.css.map",
-    "main.406de9d4.js.map": "/ecommerceolympique/static/js/main.406de9d4.js.map",
+    "main.c07c9beb.js.map": "/ecommerceolympique/static/js/main.c07c9beb.js.map",
     "787.72f94a41.chunk.js.map": "/ecommerceolympique/static/js/787.72f94a41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1195b131.css",
-    "static/js/main.406de9d4.js"
+    "static/js/main.c07c9beb.js"
   ]
 }
